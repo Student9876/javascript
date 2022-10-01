@@ -5,7 +5,7 @@ var c = null;
 var d = undefined
 const author = "ZEON"
 // author = "D" // Thorws an error as it is declared as a const
-const value;
+// const value; // Need to assign value of the const where it is being defined 
 // var can be defined multiple times. So it may cause error in future.
 // Making a block
 {
